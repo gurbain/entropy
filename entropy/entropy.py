@@ -42,7 +42,7 @@ def perm_entropy(x, order=3, delay=1, normalize=False):
     where the sum runs over all :math:`n!` permutations :math:`\\pi` of order
     :math:`n`. This is the information contained in comparing :math:`n`
     consecutive values of the time series. It is clear that
-    :math:`0 ≤ H (n) ≤ log_2(n!)` where the lower bound is attained for an
+    :math:`0 <= H (n) <= log_2(n!)` where the lower bound is attained for an
     increasing or decreasing sequence of values, and the upper bound for a
     completely random system where all :math:`n!` possible permutations appear
     with the same probability.
