@@ -99,13 +99,13 @@ def detrended_fluctuation(x):
     References
     ----------
     .. [1] C.-K. Peng, S. V. Buldyrev, S. Havlin, M. Simons,
-           H. E. Stanley, and A. L. Goldberger, “Mosaic organization of
-           DNA nucleotides,” Physical Review E, vol. 49, no. 2, 1994.
+           H. E. Stanley, and A. L. Goldberger, "Mosaic organization of
+           DNA nucleotides," Physical Review E, vol. 49, no. 2, 1994.
 
     .. [2] R. Hardstone, S.-S. Poil, G. Schiavone, R. Jansen,
            V. V. Nikulin, H. D. Mansvelder, and K. Linkenkaer-Hansen,
-           “Detrended fluctuation analysis: A scale-free view on neuronal
-           oscillations,” Frontiers in Physiology, vol. 30, 2012.
+           "Detrended fluctuation analysis: A scale-free view on neuronal
+           oscillations," Frontiers in Physiology, vol. 30, 2012.
 
     Examples
     --------
